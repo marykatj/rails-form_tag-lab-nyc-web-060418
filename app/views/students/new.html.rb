@@ -1,4 +1,4 @@
-<%= form_tag students_path do %>
+<%= form_tag new_student_path do %>
   <label>Student first_name:</label><br>
   <%= text_field_tag :'student[first_name]' %><br>
 
