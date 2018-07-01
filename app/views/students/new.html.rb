@@ -7,4 +7,3 @@
 #
 #   <%= submit_tag "Submit Name" %>
 # <% end %>
-
