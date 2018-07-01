@@ -3,7 +3,7 @@
   <%= text_field_tag :'student[first_name]' %><br>
 
   <label>Student last_name:</label><br>
-  <%= text_field_tag :'post[description]' %><br>
+  <%= text_field_tag :'stundent[last_name]' %><br>
 
-  <%= submit_tag "Submit Post" %>
+  <%= submit_tag "Submit Name" %>
 <% end %>
