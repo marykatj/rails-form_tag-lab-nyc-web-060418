@@ -9,4 +9,3 @@
 # <% end %>
 
 <%= render "form" %>
-<%= session[:form_params] if session[:form_params] %>
