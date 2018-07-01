@@ -7,3 +7,5 @@
 #
 #   <%= submit_tag "Submit Name" %>
 # <% end %>
+
+<%= render "form" %>
